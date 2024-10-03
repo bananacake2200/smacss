@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url(cute.jpg);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h1, h2, p {
+    margin: 0 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: rgba(136, 119, 119, 0.5);
+    transition: 0.5s;
+}

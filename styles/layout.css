@@ -1,0 +1,16 @@
+.layout-header {
+    position: relative;
+    padding: 5px 0;
+    background-image: url(pastel.jpg);
+    color: #f6f0f7;
+    text-align: center;
+}
+
+.layout-main {
+    padding:5px;
+}
+
+.layout-footer {
+    background-color: white;
+    text-align: center;
+}
